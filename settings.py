@@ -8,7 +8,7 @@ class Settings():
 		# 屏幕基础
 		self.screen_width = 900
 		self.screen_height = 650
-		self.bg_color = (255, 255, 255)
+		self.bg_color = (230, 230, 230)
 		# 飞船的设置
 		self.ship_limit = 3
 		# 子弹设置
